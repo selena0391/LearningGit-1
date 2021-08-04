@@ -1,0 +1,13 @@
+body{
+  background-color: gold;
+}
+h1{
+  front-size:50px;
+}
+p{
+  text-decoration:underline;
+  font-size: 25px;
+}
+img{
+  width:100px;
+}

@@ -6,3 +6,6 @@ Git is a version control software, that keeps track of our software/code, it mai
 
 #Git  Commit
 A commit is a checkpoint that represents and holds our code at that point in our projects's history. We can always revert back to a previous commit to undo changes. Usually used to store a significant change in our project.
+
+#Git and Github
+Keep in mind that git and github are two different things. git is a version control software that can be used on your computer, certain text editors/idea and it's what github uses behind the scenes to maintain your code. Github is a remote service that holds your git repos.
